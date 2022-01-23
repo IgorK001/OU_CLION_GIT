@@ -1,0 +1,3 @@
+C:/Users/xgamb/CLionProjects/OU_GIT/cmake-build-debug/CMakeFiles/OU_GIT.dir
+C:/Users/xgamb/CLionProjects/OU_GIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xgamb/CLionProjects/OU_GIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
